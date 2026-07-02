@@ -1,6 +1,5 @@
 package estudojava.proposalManagement.proposal.application.list;
 
-import estudojava.proposalManagement.proposal.domain.Owner;
 import estudojava.proposalManagement.proposal.domain.OwnerId;
 import estudojava.proposalManagement.proposal.domain.Proposal;
 
